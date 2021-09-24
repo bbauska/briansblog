@@ -1,1 +1,2 @@
-## put image here; silus-pictures/assets/img/readme.md in main.
+## put image here; BriansBlog/assets/img/readme.md in main.
+### BriansBlog.bauska.site
