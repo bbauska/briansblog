@@ -1,2 +1,3 @@
-## put image here; BriansBlog/assets/img/readme.md in main.
-### BriansBlog.bauska.site
+## put image here; briansblog/assets/img/readme.md in main.
+
+### briansblog.bauska.site
