@@ -13,6 +13,8 @@ another-website under git on bauska.site
 [Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
   
 [DASH](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
+![image](https://user-images.githubusercontent.com/41387907/161837762-b3ff5f79-3a17-47b1-910e-0d7bd43d18e9.png)
+
   
 [DogeCoin](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
 2,073
