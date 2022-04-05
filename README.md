@@ -31,3 +31,8 @@ another-website under git on bauska.site
 <hr>
 
 https://www.farbeyondthestars.com/swedenborg/
+
+<hr>
+Nome, AK
+
+
