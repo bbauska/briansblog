@@ -3,7 +3,7 @@
 Pictures of Silus Eric and Hayden Richelle and perhaps Kyah Jean.  
 another-website under git on bauska.site
 
-[Crypto Images](https://github.com/alexandresanlim/Badges4-README.md-Profile#-cryptocurrency-)
+[Badges & Crypto Images](https://github.com/alexandresanlim/Badges4-README.md-Profile#-cryptocurrency-)
 
 [PolkaDOT](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000)
 
@@ -20,5 +20,9 @@ another-website under git on bauska.site
 [XRP](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 954
 
-[ADA/Cardamp](
+[XLM/Stellar](
+
+[Alchemy](
+
+[Shiba.Inu](https://www.bing.com/th?id=AMMS_1c035b26af7948777de5d85821f84160&w=110&h=110&c=7&rs=1&qlt=80&cdv=1&pid=16.1)
 
