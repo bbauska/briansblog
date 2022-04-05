@@ -28,3 +28,6 @@ another-website under git on bauska.site
 
 [Shiba.Inu](https://www.bing.com/th?id=AMMS_1c035b26af7948777de5d85821f84160&w=110&h=110&c=7&rs=1&qlt=80&cdv=1&pid=16.1)
 
+<hr>
+
+https://www.farbeyondthestars.com/swedenborg/
