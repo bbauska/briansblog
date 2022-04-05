@@ -7,6 +7,8 @@ another-website under git on bauska.site
 
 [PolkaDOT](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000)
 
+  [Wallet](https://walletinvestor.com/forecast/polkadot-prediction)
+
 [Stellar/XLM](	https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)
 479.47
 
