@@ -20,9 +20,9 @@ another-website under git on bauska.site
 [XRP](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 954
 
-[XLM/Stellar](
+[XLM/Stellar](	https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)
 
-[Alchemy](
+[Alchemy](![image](https://user-images.githubusercontent.com/41387907/161837535-559d1b77-1616-4c77-b1ba-84737a367eee.png)
 
 [Shiba.Inu](https://www.bing.com/th?id=AMMS_1c035b26af7948777de5d85821f84160&w=110&h=110&c=7&rs=1&qlt=80&cdv=1&pid=16.1)
 
