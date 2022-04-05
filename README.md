@@ -11,6 +11,11 @@ another-website under git on bauska.site
 
 [Wallet](https://walletinvestor.com/forecast/polkadot-prediction)
 
+[Terra Luna](
+
+<!----------------------------------------------------------------------------------------------------->
+<!---------------------------------------- xlm (STELLAR) ---------------------------------------------->
+<!----------------------------------------------------------------------------------------------------->
 
 <h2>XLM (Stellar)</h2>
 
@@ -18,6 +23,9 @@ another-website under git on bauska.site
 479.47
 [XLM/Stellar](https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)
 
+<!----------------------------------------------------------------------------------------------------->
+<!---------------------------------------- eth (ETHEREUM) --------------------------------------------->
+<!----------------------------------------------------------------------------------------------------->
 
 [Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
@@ -28,9 +36,22 @@ another-website under git on bauska.site
 
 <h2>Doge Coin</h2>
 
+<!----------------------------------------------------------------------------------------------------->
+<!-------------------------------------- doge (DOGE Coin) --------------------------------------------->
+<!----------------------------------------------------------------------------------------------------->
+
 [DogeCoin](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
 2,073
 ![image](https://user-images.githubusercontent.com/41387907/161837877-fda6e6c4-6c78-434a-ba80-93aefe711fe1.png)
+
+Why Was Dogecoin Invented?
+As mentioned, Dogecoin originated as a joke cryptocurrency. Its creator thought it would be funny to create a coin based on a meme. Inspired by both the Doge meme and the cryptocurrency sector, Markus and Palmer set out to create a peer-to-peer (P2P) digital currency that could reach a greater number of people than Bitcoin.
+
+At the time (December 2013), Bitcoin — and indeed, the entire crypto market — was mostly unknown, only used by developers, online criminals, and tech geeks. The sector’s short history was already tainted due to its ties to cybercriminals, accusations of money laundering, tax evasion, and the like. Plus, Bitcoin’s creator intended to use cryptocurrencies to take power away from the banks — this did not make the crypto sector popular among financial institutions.
+
+Palmer and Markus decided to make a coin that would bring humour and lightheartedness to the controversial crypto industry, but also to make sure that it would distance itself from controversial coins. And so, on December 6th, 2013, Dogecoin was born. The word spread quickly, despite the small size of the crypto sector at the time, and DOGE already had over a million visitors in its first month of existence.
+
+<hr>
 
 <h2>XRP (Ripple)</h2>
 
