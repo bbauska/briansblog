@@ -5,11 +5,18 @@ another-website under git on bauska.site
 
 [Badges & Crypto Images](https://github.com/alexandresanlim/Badges4-README.md-Profile#-cryptocurrency-)
 
+<hr>
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------------------- PolkaDOT---------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
+
 <h2>PolkaDOT</h2>
 
 [PolkaDOT](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000)
 
 [Wallet](https://walletinvestor.com/forecast/polkadot-prediction)
+
+[PolkaDOT](
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
