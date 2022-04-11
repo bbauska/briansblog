@@ -7,6 +7,19 @@ another-website under git on bauska.site
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
+<!-------------------------------------- UniSwap (UNI) ------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
+
+<h2>UniSwap (UNI)</h2>
+
+[UniSwap](https://walletinvestor.com/forecast/uniswap-prediction)
+
+[Wallet](https://walletinvestor.com/forecast/uniswap-prediction)
+
+[UniSwap Price Prediction](https://cryptocurrencypriceprediction.com/uniswap-uni-token-price-prediction/)
+
+<hr>
+<!------------------------------------------------------------------------------------------------>
 <!----------------------------------------- PolkaDOT---------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 
@@ -20,10 +33,60 @@ another-website under git on bauska.site
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- luna (TERRA LUNA) --------------------------------------->
+<!---------------------------------------- cardano (ada) ----------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 
-[Terra Luna](
+[Cardano (ADA)]()
+
+[Wallet Investor](https://walletinvestor.com/forecast/cardano-prediction)
+
+<hr>
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------- luna (wrapped luna) -------------------------------------->
+<!------------------------------------------------------------------------------------------------>
+
+[Terra Luna (TLUNA)](
+
+[Wallet Investor](https://walletinvestor.com/forecast/terra-prediction)
+
+<hr>
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------------ tezos - xtz ----------------------------------------->
+<!------------------------------------------------------------------------------------------------>
+
+<h2>Tezos (XTZ)</h2>
+
+[Wallet Investor]()
+
+[Tezos (XTZ) Price Prediction](https://cryptocurrencypriceprediction.com/tezos-price-prediction-2020-2021-xtz-coin-future-forecast-till-10/)
+
+<hr>
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------------------- ach (ALCHEMY PAY) -------------------------------------->
+<!------------------------------------------------------------------------------------------------>
+
+<h2>ACH (Alchemy Pay)</h2>
+
+[Alchemy Pay](https://img.api.cryptorank.io/coins/60x60.alchemy1586999187880.png)
+
+![image](https://user-images.githubusercontent.com/41387907/161850719-41e88381-4f2f-4435-b0a6-2d17d21921ab.png)
+
+<b>NO Alchemy Pay Price Prediction</b>
+
+[Wallet Investor](https://walletinvestor.com/forecast/alchemy-pay-prediction)
+
+<hr>
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------------------- shiba (SHIBA INU) -------------------------------------->
+<!------------------------------------------------------------------------------------------------>
+
+<h2>SHIB (Shiba Inu)</h2>
+
+[Shiba.Inu](https://www.bing.com/th?id=AMMS_1c035b26af7948777de5d85821f84160&w=110&h=110&c=7&rs=1&qlt=80&cdv=1&pid=16.1)
+
+[Shiba Inu Price Predictions](https://cryptocurrencypriceprediction.com/shiba-inu-shib-coin-price-prediction/)
+
+[Wallet Investor](https://walletinvestor.com/forecast/shiba-inu-prediction)
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
@@ -34,7 +97,12 @@ another-website under git on bauska.site
 
 [Stellar/XLM](	https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)
 479.47
+
 [XLM/Stellar](https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)
+
+[XLM Price Predictions]()
+
+[Wallet Investor]()
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
@@ -42,6 +110,8 @@ another-website under git on bauska.site
 <!------------------------------------------------------------------------------------------------>
 
 [Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+[Ethereum (ETH) Price Predictions]()
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
@@ -52,6 +122,10 @@ another-website under git on bauska.site
 
 [DASH](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
 ![image](https://user-images.githubusercontent.com/41387907/161837762-b3ff5f79-3a17-47b1-910e-0d7bd43d18e9.png)
+
+[DASH Price Predictions]()
+
+[Wallet Investor]()
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
@@ -71,6 +145,10 @@ At the time (December 2013), Bitcoin â€” and indeed, the entire crypto market â€
 
 Palmer and Markus decided to make a coin that would bring humour and lightheartedness to the controversial crypto industry, but also to make sure that it would distance itself from controversial coins. And so, on December 6th, 2013, Dogecoin was born. The word spread quickly, despite the small size of the crypto sector at the time, and DOGE already had over a million visitors in its first month of existence.
 
+[DogeCoin Price Predictions](https://cryptocurrencypriceprediction.com/dogecoin-doge-price-prediction/)
+
+[Wallet Investor](https://walletinvestor.com/forecast/dogecoin-prediction)
+
 <hr>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- xrp (XRP RIPPLE) ---------------------------------------->
@@ -78,39 +156,28 @@ Palmer and Markus decided to make a coin that would bring humour and lighthearte
 
 <h2>XRP (Ripple)</h2>
 
-[XRP](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
+[XRP Ripple](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 954
 
-<hr>
-<!------------------------------------------------------------------------------------------------>
-<!--------------------------------------- ach (ALCHEMY PAY) -------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+[XRP Price Predictions](https://cryptocurrencypriceprediction.com/xrp-price-prediction-2020-2021-2025-xrp-forecast/)
 
-<h2>ACH (Alchemy Pay)</h2>
-
-[Alchemy Pay](https://img.api.cryptorank.io/coins/60x60.alchemy1586999187880.png)
-
-![image](https://user-images.githubusercontent.com/41387907/161850719-41e88381-4f2f-4435-b0a6-2d17d21921ab.png)
-
+[Wallet Investor](https://walletinvestor.com/forecast/xrp-prediction)
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------------------- shiba (SHIBA INU) -------------------------------------->
+<!--------------------------------------- far beyond blog ---------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 
-<h2>Shiba Inu</h2>
+<h2>far beyond blog</h2>
 
-[Shiba.Inu](https://www.bing.com/th?id=AMMS_1c035b26af7948777de5d85821f84160&w=110&h=110&c=7&rs=1&qlt=80&cdv=1&pid=16.1)
-
-<hr>
-
-https://www.farbeyondthestars.com/swedenborg/
-
+[Far Beyond the Stars](https://www.farbeyondthestars.com/swedenborg/)
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------------ nome, AK -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
+
+<h2>Birth Place:</h2>
 
 Nome, AK
 
