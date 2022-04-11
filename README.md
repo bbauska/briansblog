@@ -5,7 +5,7 @@ another-website under git on bauska.site
 
 [Badges & Crypto Images](https://github.com/alexandresanlim/Badges4-README.md-Profile#-cryptocurrency-)
 
-<hr>
+<hr style="width:50%;text-align:left;margin-left:0">
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- UniSwap (UNI) ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -14,9 +14,9 @@ another-website under git on bauska.site
 
 [UniSwap](https://walletinvestor.com/forecast/uniswap-prediction)
 
-[Wallet](https://walletinvestor.com/forecast/uniswap-prediction)
-
 [UniSwap Price Prediction](https://cryptocurrencypriceprediction.com/uniswap-uni-token-price-prediction/)
+
+[Wallet Investor](https://walletinvestor.com/forecast/uniswap-prediction)
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
@@ -27,16 +27,19 @@ another-website under git on bauska.site
 
 [PolkaDOT](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000)
 
-[Wallet](https://walletinvestor.com/forecast/polkadot-prediction)
+[PolkaDOT Price Prediction](https://cryptocurrencypriceprediction.com/polkadot-dot-price-prediction/)
 
-[PolkaDOT](
+[Wallet Investor](https://walletinvestor.com/forecast/polkadot-prediction)
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------------- cardano (ada) ----------------------------------------->
 <!------------------------------------------------------------------------------------------------>
+<h2>Cardano (ADA)</h2>
 
 [Cardano (ADA)]()
+
+[Cardano (ADA) Price Predictions](https://cryptocurrencypriceprediction.com/cardano-price-prediction/)
 
 [Wallet Investor](https://walletinvestor.com/forecast/cardano-prediction)
 
@@ -44,8 +47,9 @@ another-website under git on bauska.site
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------- luna (wrapped luna) -------------------------------------->
 <!------------------------------------------------------------------------------------------------>
+<h2>Luna (Wrapped Terra Luna)</h2>
 
-[Terra Luna (TLUNA)](
+[Terra Luna (LUNA)](https://cryptocurrencypriceprediction.com/terra-luna-price-prediction/)
 
 [Wallet Investor](https://walletinvestor.com/forecast/terra-prediction)
 
@@ -53,19 +57,17 @@ another-website under git on bauska.site
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------------ tezos - xtz ----------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
 <h2>Tezos (XTZ)</h2>
 
-[Wallet Investor]()
-
 [Tezos (XTZ) Price Prediction](https://cryptocurrencypriceprediction.com/tezos-price-prediction-2020-2021-xtz-coin-future-forecast-till-10/)
+
+[Wallet Investor](https://walletinvestor.com/forecast/tezos-prediction)
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------------------- ach (ALCHEMY PAY) -------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
-<h2>ACH (Alchemy Pay)</h2>
+<h2>Alchemy Pay (ACH)</h2>
 
 [Alchemy Pay](https://img.api.cryptorank.io/coins/60x60.alchemy1586999187880.png)
 
@@ -79,8 +81,7 @@ another-website under git on bauska.site
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------------------- shiba (SHIBA INU) -------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
-<h2>SHIB (Shiba Inu)</h2>
+<h2>Shiba Inu (SHIB)</h2>
 
 [Shiba.Inu](https://www.bing.com/th?id=AMMS_1c035b26af7948777de5d85821f84160&w=110&h=110&c=7&rs=1&qlt=80&cdv=1&pid=16.1)
 
@@ -92,47 +93,47 @@ another-website under git on bauska.site
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------------- xlm (STELLAR) ----------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
-<h2>XLM (Stellar)</h2>
+<h2>Stellar Lumens (XLM)</h2>
 
 [Stellar/XLM](	https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)
 479.47
 
 [XLM/Stellar](https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white)
 
-[XLM Price Predictions]()
+[XLM Price Predictions](https://cryptocurrencypriceprediction.com/stellar-lumens-xlm-price-prediction-2018-2019-2020-2025-2030-till-5-usd/)
 
-[Wallet Investor]()
+[Wallet Investor](https://walletinvestor.com/forecast/stellar-lumens-prediction)
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------------- eth (ETHEREUM) ---------------------------------------->
 <!------------------------------------------------------------------------------------------------>
+<h2>Ethereum (ETH)</h2>
 
 [Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
-[Ethereum (ETH) Price Predictions]()
+[Ethereum (ETH) Price Predictions](https://cryptocurrencypriceprediction.com/ethereum-eth-2-0-price-prediction-2020-release-date-staking-calculator/)
+
+[Wallet Investor](https://walletinvestor.com/forecast/ethereum-prediction)
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------------- dash (DASH COIN) -------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
-<h2>DASH Coin</h2>
+<h2>DASH Coin (DASH)</h2>
 
 [DASH](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
 ![image](https://user-images.githubusercontent.com/41387907/161837762-b3ff5f79-3a17-47b1-910e-0d7bd43d18e9.png)
 
-[DASH Price Predictions]()
+[DASH Price Predictions](https://cryptocurrencypriceprediction.com/dash-price-prediction-2020-till-500-1000-usd/)
 
-[Wallet Investor]()
+[Wallet Investor](https://walletinvestor.com/forecast/dash-prediction)
 
 <hr>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- doge (DOGE Coin) ---------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
-<h2>Doge Coin</h2>
+<h2>Doge Coin (DOGE)</h2>
 
 [DogeCoin](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
 2,073
@@ -153,8 +154,7 @@ Palmer and Markus decided to make a coin that would bring humour and lighthearte
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- xrp (XRP RIPPLE) ---------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
-<h2>XRP (Ripple)</h2>
+<h2>Ripple (XRP)</h2>
 
 [XRP Ripple](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 954
@@ -167,7 +167,6 @@ Palmer and Markus decided to make a coin that would bring humour and lighthearte
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------------------- far beyond blog ---------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
 <h2>far beyond blog</h2>
 
 [Far Beyond the Stars](https://www.farbeyondthestars.com/swedenborg/)
