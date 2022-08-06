@@ -3,8 +3,8 @@
 <!--- Pictures of Silus Eric and Hayden Richelle and perhaps Kyah Jean.  
 another-website under git on bauska.site --->
 
-[Distributed Systems](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
-[Awesome Courses](https://requestbin.com/blog/working-with-webhooks/)
+## [Distributed Systems](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
+## [Awesome Courses](https://requestbin.com/blog/working-with-webhooks/)
 
 [Badges & Crypto Images](https://github.com/alexandresanlim/Badges4-README.md-Profile#-cryptocurrency-)
 
