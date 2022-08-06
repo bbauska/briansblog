@@ -3,6 +3,8 @@
 Pictures of Silus Eric and Hayden Richelle and perhaps Kyah Jean.  
 another-website under git on bauska.site
 
+[Distributed Systems](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
+
 [Badges & Crypto Images](https://github.com/alexandresanlim/Badges4-README.md-Profile#-cryptocurrency-)
 
 <hr style="width:50%;text-align:left;margin-left:0">
