@@ -8,6 +8,18 @@ another-website under git on bauska.site --->
 
 [Badges & Crypto Images](https://github.com/alexandresanlim/Badges4-README.md-Profile#-cryptocurrency-)
 
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------ ford fusion 2010 ------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+
+<h2>Ford Fusion Parts & Work Needed</h2>
+<ul>
+<li>Rear Window</li>
+<li>Car Seat Covers - front/back</li>
+  <li>Flush and fill tranny fluid</li>
+  <li>Tires -altimax all season</li>
+  <li>Rear Window</li>
+  </ul>
 <hr style="width:50%;text-align:left;margin-left:0">
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- UniSwap (UNI) ------------------------------------------->
