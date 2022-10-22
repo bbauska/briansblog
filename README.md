@@ -1,7 +1,7 @@
 # BriansBlog
 
 <!--- Pictures of Silus Eric and Hayden Richelle and perhaps Kyah Jean.  
-another-website under git on bauska.site --->
+another-website under git on bauska.org and/or bauska.net --->
 
 ## [Distributed Systems](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 ## [Awesome Courses](https://requestbin.com/blog/working-with-webhooks/)
