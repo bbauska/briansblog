@@ -55,9 +55,13 @@ For anyone looking to mine DOGE for fun or simply to understand the process, it 
 
 However, mining alone can be a difficult process and is rarely profitable unless one is willing to shell out significant sums of money on top-spec equipment and electrical bills.
 
-For crypto enthusiasts interested in trying to make a profit from doge mining, joining a dogecoin mining pool is recommended and provides a much better chance of becoming a block validator due to the collective hashing power of the pool. But before jumping into a mining pool, be ready to pay 1%-3% in fees for the privilege to participate and always check in advance how each pool calculates payouts for its members.
+For crypto enthusiasts interested in trying to make a profit from doge mining, joining a dogecoin mining pool is recommended and provides a much better chance of 
+becoming a block validator due to the collective hashing power of the pool. But before jumping into a mining pool, be ready to pay 1%-3% in fees for the privilege 
+to participate and always check in advance how each pool calculates payouts for its members.
+
 
 Popular dogecoin mining pools in 2022 include:
+
   - [Prohashing](https://prohashing.com/)
 
   - [Litecoinpool](https://www.litecoinpool.org/)
