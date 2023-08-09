@@ -12,13 +12,14 @@ Each hash generated is completely random so it’s simply a process of trial and
 
 Here is how dogecoin mining compares to bitcoin and litecoin mining (as of January 2022):
 
-| ------- | ------- | ------- |
-| Dogecoin | Litecoin | Bitcoin |
-Algorithm	Scrypt	Scrypt	SHA-256
-Block time	1 min	2.5 min	10 min
-Difficulty	5.05 million	11.89 million	24.37 trillion
-Reward per block	10,000	12.5	6.25
-Total supply	Infinite	84,000,000	21,000,000
+| type | Dogecoin      | Litecoin      | Bitcoin      |
+| :---: | :--- | :--- | :--- |
+| Algorithm |	Scrypt | Scrypt | SHA-256
+| Block time | 1 min | 2.5 min | 10 min
+| Difficulty | 5.05 million | 11.89 million | 24.37 trillion
+| Reward per block | 10,000 | 12.5 | 6.25
+| Total supply | Infinite | 84,000,000 | 21,000,000
+
 As a rule, PoW blockchains such as bitcoin and litecoin usually have a predetermined total supply of coins that have to be mined in order for them to be added to the circulating supply (21 million and 84 million, respectively). Think of it as being like actual mining and how precious gems or gold have to be physically mined before they can enter the market.
 
 Unlike a vast majority of cryptocurrencies, however, dogecoin doesn’t have a maximum supply cap. Its circulating supply will continue to increase indefinitely over time as new coins are created through mining.
