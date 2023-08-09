@@ -68,4 +68,19 @@ Popular dogecoin mining pools in 2022 include:
 
   - [AikaPool](https://aikapool.com/doge/index.php?page=login)
 
+## Dogecoin cloud mining
 
+Dogecoin can also be earned through cloud mining, which is not really mining per se. Cloud mining basically involves renting computing power from a data center and 
+paying a monthly or annual fee based on an agreed-upon contract. The chosen coin is then mined at the center via a mining pool and then shared with you based on 
+how much computing power you pay for.
+
+The main drawback of cloud mining is that most contracts are time-locked, meaning you can lose money if DOGE prices drop below the operational and electrical costs 
+associated with mining it.
+
+Nevertheless, this can also be just as effective as joining a mining pool and does not require the user to own any specialist equipment. Anyone opting for the 
+cloud mining route simply needs a dogecoin wallet.
+
+### Popular cloud mining pools that support DOGE include:
+  - [Genesis Mining](https://www.bitdegree.org/crypto/goon/genesis-mining)
+    
+  - [Nicehash](https://www.nicehash.com/)
