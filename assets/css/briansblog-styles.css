@@ -126,6 +126,8 @@ h6, .h6 {
 }
 
 p {
+  font-size: 15px;
+  font-family: Bahnschrift;
   margin-top: 0;
   margin-bottom: 1rem;
 }
@@ -10555,6 +10557,8 @@ hr {
 }
 
 p {
+  font-size: 15px;
+  font-family: Bahnschrift;
   margin: 2rem 0;
 }
 p a {
