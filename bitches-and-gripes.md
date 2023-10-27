@@ -12,8 +12,9 @@ Today, a war in Ukraine rages on. Putin to blame.  Yet, the West as well gets 1/
 
 The war in Ukraine wasn't enough.  Now we have a Palistine and Israel war.  Hamas.  It is such a round of bullshit.  Religion and the assholes who will kill for it.  Not money, now.  It's 'belief'.  That gets to the center of human kind. So, now, the assholes are acting like Catholics did a thousand years ago.  Only they have the answers because they are the undisputed champions of knowledge and power.  Well, fuck you!
 
-Now, let's talk about Washington Post (idiot cavemen and women).  The military industrial complex with their boney and grubby money hungry fuckers.  Taking my tax dollars then lie, lie, lie.  Fucking the American people without asking.  Mother-fuckers one and all.
-They (MIC) have advanced knowledge and they are suppressing it.  Thinking they know best.  WTF?  Started out to 'protect us'.  Fuck you!
+Now, let's talk about Washington Post (idiot cavemen and women).  The military industrial complex (mic) with their boney and grubby money hungry fingers. Never having enough.  Stealing, killing, lying.  No bottom to how low these fucks will go. Taking my tax dollars than lie, lie, lie.  Fucking the American people without asking.  Mother-fuckers one and all.
+
+They (the MIC) have advanced knowledge and they are suppressing it.  Thinking they know best.  WTF?  Started out to 'protect us'.  Fuck you!  It's now all about energy.  Big oil, coal, and nuclear.  If these were erradicated with low or even no-cost energy, they World could save millions of lives and actually advance human kind.  But these rich fucks decided with the military to stop advancements of energy development.  No science would be funded for 80+ years.
 
 Now, let's talk about the cocksucking NY Times.  Ya, arrogant mother-fuckers.  How about those idiots with the military?  Always looking for a nail with their big fucking hammers.  All over the World.  Picking fights to show off their tools from the far future.
 
