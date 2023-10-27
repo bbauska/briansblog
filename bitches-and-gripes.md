@@ -15,3 +15,4 @@ They (MIC) have advanced knowledge and they are suppressing it.  Thinking they k
 
 Now, let's talk about the cocksucking NY Times.  Ya, arrogant mother-fuckers.  How about those idiots with the military?  Always looking for a nail with their big fucking hammers.  All over the World.  Picking fights to show off their tools from the far future.
 
+Using military logic, United States may only as smart as the dumbest American. What the Fuck?  I fucking despise the military for that logic.  They have none.  No legitimate scientist could actually advance humanity in America using the military guidance.  Which is the only way science could advance because they had ALL the money for research.  It's fucking mind-boggling.
