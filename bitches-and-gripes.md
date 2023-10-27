@@ -17,4 +17,10 @@ They (MIC) have advanced knowledge and they are suppressing it.  Thinking they k
 
 Now, let's talk about the cocksucking NY Times.  Ya, arrogant mother-fuckers.  How about those idiots with the military?  Always looking for a nail with their big fucking hammers.  All over the World.  Picking fights to show off their tools from the far future.
 
-Using military logic, United States may only as smart as the dumbest American. What the Fuck?  I fucking despise the military for that logic.  They have none.  No legitimate scientist could actually advance humanity in America using the military guidance.  Which is the only way science could advance because they had ALL the money for research.  It's fucking mind-boggling.
+Using military logic, United States (and the World) may be only as smart as the dumbest American (or human for that matter). What the Fuck?  I fucking despise the military for that logic.  They have none.  No legitimate scientist could actually advance humanity in America using the military guidance.  Which is the only way science can advance because they had ALL the money for research.  It's fucking mind-boggling.  Now with some-what free internet sharing and liberty, we can leap-frog over these deutsch-bags and show them they don't own the World.  So a giant middle-finger to the MIC.
+
+No more lies.  So what does the MIC do?  They flood the internet with so many lies no one can find the truth.  They're final stand at battling intelligence for the benefit of a few.  A very, very few.  Perhaps a couple thousand compared to 7.5 billion.  Despicable.
+
+Now, let's discuss Edward Condon.  An ass-hole wanna-be scientist who thought he was the smartest man in the fucking Universe.  What an asshole.  A third-degree Colorado deutsche-bag who lied with Loe and told the World just what the Air Force told them.  What kind of science is that?  Air Force possesses no knowledge.  Period.  Therefore, we are idiots.
+
+
