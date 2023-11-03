@@ -6186,7 +6186,7 @@ textarea.form-control-lg {
 }
 
 .border-top {
-  border-top: 1px solid #dee2e6 !important;
+  border-top: 1px solid #dee2e6 !important;  /* light grayish blue */
 }
 
 .border-top-0 {
@@ -6194,7 +6194,7 @@ textarea.form-control-lg {
 }
 
 .border-end {
-  border-right: 1px solid #dee2e6 !important;
+  border-right: 1px solid #dee2e6 !important;  /* light grayish blue */
 }
 
 .border-end-0 {
@@ -6202,7 +6202,7 @@ textarea.form-control-lg {
 }
 
 .border-bottom {
-  border-bottom: 1px solid #dee2e6 !important;
+  border-bottom: 1px solid #dee2e6 !important;  /* light grayish blue */
 }
 
 .border-bottom-0 {
@@ -6210,7 +6210,7 @@ textarea.form-control-lg {
 }
 
 .border-start {
-  border-left: 1px solid #dee2e6 !important;
+  border-left: 1px solid #dee2e6 !important;  /* light grayish blue */
 }
 
 .border-start-0 {
@@ -6218,39 +6218,39 @@ textarea.form-control-lg {
 }
 
 .border-primary {
-  border-color: #0085A1 !important;
+  border-color: #0085a1 !important;  /* dark cyan */
 }
 
 .border-secondary {
-  border-color: #6c757d !important;
+  border-color: #6c757d !important;  /* dark grayish blue */
 }
 
 .border-success {
-  border-color: #198754 !important;
+  border-color: #198754 !important;  /* dark cyan - lime green */
 }
 
 .border-info {
-  border-color: #0dcaf0 !important;
+  border-color: #0dcaf0 !important;  /* vivid cyan */
 }
 
 .border-warning {
-  border-color: #ffc107 !important;
+  border-color: #ffc107 !important;  /* vivid yellow */
 }
 
 .border-danger {
-  border-color: #dc3545 !important;
+  border-color: #dc3545 !important;  /* bright red */
 }
 
 .border-light {
-  border-color: #f8f9fa !important;
+  border-color: #f8f9fa !important;  /* light grayish blue */
 }
 
 .border-dark {
-  border-color: #212529 !important;
+  border-color: #212529 !important;  /* very dark (mostly black) blue */
 }
 
 .border-white {
-  border-color: #fff !important;
+  border-color: #fff !important;  /* white */
 }
 
 .border-1 {
@@ -7047,47 +7047,47 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #0085A1 !important;
+  color: #0085a1 !important;  /* dark cyan */
 }
 
 .text-secondary {
-  color: #6c757d !important;
+  color: #6c757d !important;  /* dark grayish blue */
 }
 
 .text-success {
-  color: #198754 !important;
+  color: #198754 !important;  /* dark cyan - lime green */
 }
 
 .text-info {
-  color: #0dcaf0 !important;
+  color: #0dcaf0 !important;  /* vivid cyan */
 }
 
 .text-warning {
-  color: #ffc107 !important;
+  color: #ffc107 !important;  /* vivid yellow */
 }
 
 .text-danger {
-  color: #dc3545 !important;
+  color: #dc3545 !important;  /* bright red */
 }
 
 .text-light {
-  color: #f8f9fa !important;
+  color: #f8f9fa !important;  /* light grayish blue */
 }
 
 .text-dark {
-  color: #212529 !important;
+  color: #212529 !important;  /* very dark (mostly black) blue */
 }
 
 .text-white {
-  color: #fff !important;
+  color: #fff !important;  /* white */
 }
 
 .text-body {
-  color: #212529 !important;
+  color: #212529 !important;  /* very dark (mostly black) blue */
 }
 
 .text-muted {
-  color: #6c757d !important;
+  color: #6c757d !important;  /* dark grayish blue */
 }
 
 .text-black-50 {
@@ -7103,7 +7103,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #0085A1 !important;
+  background-color: #0085a1 !important;  /* dark cyan */
 }
 
 .bg-secondary {
