@@ -10791,7 +10791,7 @@ header.masthead .site-heading .h1 {
   margin-bottom: 0.625rem;
 }
 .post-preview > a > .post-subtitle {
-  font-weight: 300;
+  font-weight: 100;  /* 300 */
   margin-bottom: 0.625rem;
 }
 .post-preview > .post-meta {
