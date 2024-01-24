@@ -90,7 +90,10 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   line-height: 1.2;
 }
 
+<!-- added 1/23/2024 */
 h3 > a {
+  font-family: Bahnschrift, BlinkMacSystemFont, "Segoe UI", "Open Sans", -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1.5rem;
   font-weight: 300;
 }
 
@@ -10811,4 +10814,3 @@ header.masthead .site-heading .h1 {
   .post-preview > a > .post-title {
     font-size: 2.25rem;
   }
-
