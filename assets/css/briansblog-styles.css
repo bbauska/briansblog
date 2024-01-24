@@ -96,7 +96,7 @@ h3, .h3 > a {
   font-family: "Bahnschrift", BlinkMacSystemFont, "Segoe UI", "Open Sans", -apple-system, Roboto, "Helvetica Neue", 
     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1.5rem;
-  font-weight: 200;
+  font-weight: -200;
 }
 
 h1, .h1 {
