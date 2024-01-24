@@ -93,10 +93,10 @@ h6, .h6, h5, .h5, h4, .h4, h2, .h2, h1, .h1 {
 
 <!-- added 1/23/2024 */
 h3, .h3 > a {
-  font-family: "Bahnschrift", BlinkMacSystemFont, "Segoe UI", "Open Sans", -apple-system, Roboto, "Helvetica Neue", 
+  font-family: "Open Sans", -apple-system, "Bahnschrift", BlinkMacSystemFont, "Segoe UI", "Open Sans", -apple-system, Roboto, "Helvetica Neue", 
     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1.5rem;
-  font-weight: -200;
+  font-weight: 100;
 }
 
 h1, .h1 {
@@ -119,10 +119,12 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: calc(1.3rem + 0.6vw);
+  font-weight: 100;
 }
 @media (min-width: 1200px) {
   h3, .h3 {
     font-size: 1.75rem;
+    font-weight: 100;
   }
 }
 
