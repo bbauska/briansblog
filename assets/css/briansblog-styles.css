@@ -1,15 +1,3 @@
-@charset "UTF-8";
-/*!
-* Start Bootstrap - Clean Blog v6.0.3 (https://startbootstrap.com/theme/clean-blog)
-* Copyright 2013-2021 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-clean-blog/blob/master/LICENSE)
-*/
-/*!
- * Bootstrap v5.0.1 (https://getbootstrap.com/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -81,20 +69,12 @@ h6, .h6, h5, .h5, h4, .h4, h2, .h2, h1, .h1 {
   font-weight: 800;
   line-height: 1.2;
 }
-
 h1, .h1 {
   font-size: calc(1.375rem + 1.5vw);
 }
-
 h2, .h2 {
   font-size: calc(1.325rem + 0.9vw);
 }
-@media (min-width: 1200px) {
-  h2, .h2 {
-    font-size: 2rem;
-  }
-}
-
 h3, .h3 {
   font-size: calc(1.3rem + 0.6vw);
   font-weight: 100;
@@ -127,7 +107,6 @@ a {
   color: #212529;
   text-decoration: none;
 }
-
 
 img,
 svg {
@@ -291,7 +270,6 @@ button:not(:disabled),
   flex-grow: 1;
   align-items: center;
 }
-
 .navbar-toggler {
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
@@ -312,8 +290,6 @@ button:not(:disabled),
   display: flex !important;
 }
 
-
-
 .position-relative {
   position: relative !important;
 }
@@ -325,7 +301,6 @@ button:not(:disabled),
 .justify-content-end {
   justify-content: flex-end !important;
 }
-
 .justify-content-center {
   justify-content: center !important;
 }
@@ -336,7 +311,6 @@ button:not(:disabled),
 .mb-4 {
   margin-bottom: 1.5rem !important;
 }
-
 .px-4 {
   padding-right: 1.5rem !important;
   padding-left: 1.5rem !important;
@@ -347,11 +321,9 @@ button:not(:disabled),
 .text-center {
   text-align: center !important;
 }
-
 .text-uppercase {
   text-transform: uppercase !important;
 }
-
 .text-muted {
   color: #6c757d !important;  /* dark grayish blue */
 }
