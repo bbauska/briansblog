@@ -13,6 +13,7 @@ another-website under git on bauska.org and/or bauska.net --->
 <h2>Tools for Web Development</h2>
 
 [Triangle Generator](https://unused-css.com/tools/triangle-generator)<br>
+[CSS Clip Path Generator](https://unused-css.com/tools/clip-path-generator)<br>
 [SVG](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-svg#anatomy-of-an-svg)<br>
 [Back to Top with Progress Bar](https://html-online.com/articles/dynamic-scroll-back-top-page-button-javascript/)<br>
 [Copy to Clipboard w/jQuery](https://html-online.com/articles/copy-to-clipboard-website-button-jquery/)
