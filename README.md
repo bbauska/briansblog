@@ -8,6 +8,7 @@ another-website under git on bauska.org and/or bauska.net --->
 
 [Badges & Crypto Images](https://github.com/alexandresanlim/Badges4-README.md-Profile#-cryptocurrency-)
 
+<h2>Tools for Web Development</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ tools for web development ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 [Triangle Generator](https://unused-css.com/tools/triangle-generator)
