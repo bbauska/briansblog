@@ -17,9 +17,10 @@ another-website under git on bauska.org and/or bauska.net --->
 [SEO - INP - Interaction to Next Paint](https://www.supermonitoring.com/blog/inp-new-metric-in-core-web-vitals/)<br>
 [Back to Top with Progress Bar](https://html-online.com/articles/dynamic-scroll-back-top-page-button-javascript/)<br>
 [Copy to Clipboard w/jQuery](https://html-online.com/articles/copy-to-clipboard-website-button-jquery/)<br><br>
-[LCP (Largest Contentful Pain)](https://web.dev/articles/lab-and-field-data-differences#field_data)<br>
-[INP (Interactions for Next Paint)](https://web.dev/articles/lab-and-field-data-differences#field_data)<br>
-[CLS (Cummulative Layout Shift](https://web.dev/articles/lab-and-field-data-differences#field_data)<br>
+## Optimize Performance of SEO
+[LCP (Largest Contentful Pain)](https://web.dev/articles/optimize-lcp)<br>
+[INP (Interactions for Next Paint)](https://web.dev/articles/inp)<br>
+[CLS (Cummulative Layout Shift](https://web.dev/articles/optimize-cls)<br>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ford fusion 2010 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
