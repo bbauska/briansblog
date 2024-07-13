@@ -14,6 +14,7 @@ another-website under git on bauska.org and/or bauska.net --->
 
 [Triangle Generator](https://unused-css.com/tools/triangle-generator)<br>
 [SVG](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-svg#anatomy-of-an-svg)<br>
+[SEO - INP - Interaction to Next Paint](https://www.supermonitoring.com/blog/inp-new-metric-in-core-web-vitals/)<br>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ford fusion 2010 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
