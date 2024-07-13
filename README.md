@@ -16,7 +16,7 @@ another-website under git on bauska.org and/or bauska.net --->
 [SVG](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-svg#anatomy-of-an-svg)<br>
 [SEO - INP - Interaction to Next Paint](https://www.supermonitoring.com/blog/inp-new-metric-in-core-web-vitals/)<br>
 [Back to Top with Progress Bar](https://html-online.com/articles/dynamic-scroll-back-top-page-button-javascript/)<br>
-[Copy to Clipboard](https://html-online.com/articles/copy-to-clipboard-website-button-jquery/)
+[Copy to Clipboard w/jQuery](https://html-online.com/articles/copy-to-clipboard-website-button-jquery/)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ford fusion 2010 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
