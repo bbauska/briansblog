@@ -8,20 +8,22 @@ another-website under git on bauska.org and/or bauska.net --->
 
 [Badges & Crypto Images](https://github.com/alexandresanlim/Badges4-README.md-Profile#-cryptocurrency-)
 
-<h2>Tools for Web Development</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ tools for web development ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>Tools for Web Development</h2>
 
 [Triangle Generator](https://unused-css.com/tools/triangle-generator)<br>
 [SVG](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-svg#anatomy-of-an-svg)<br>
-[SEO - INP - Interaction to Next Paint](https://www.supermonitoring.com/blog/inp-new-metric-in-core-web-vitals/)<br>
 [Back to Top with Progress Bar](https://html-online.com/articles/dynamic-scroll-back-top-page-button-javascript/)<br>
-[Copy to Clipboard w/jQuery](https://html-online.com/articles/copy-to-clipboard-website-button-jquery/)<br><br>
-## Optimize Performance of SEO
-[LCP (Largest Contentful Pain)](https://web.dev/articles/optimize-lcp)<br>
-[INP (Interactions for Next Paint)](https://web.dev/articles/inp)<br>
-[CLS (Cummulative Layout Shift](https://web.dev/articles/optimize-cls)<br>
+[Copy to Clipboard w/jQuery](https://html-online.com/articles/copy-to-clipboard-website-button-jquery/)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ seo - optimize performance  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="seo-optimize">SEO - Optimize Performance</h2>
 
+[INP (Interaction to Next Paint)](https://www.supermonitoring.com/blog/inp-new-metric-in-core-web-vitals/)<br>
+[LCP (Largest Contentful Paint)](https://web.dev/articles/optimize-lcp)<br>
+[again, INP (Interactions for Next Paint)](https://web.dev/articles/inp)<br>
+[CLS (Cummulative Layout Shift](https://web.dev/articles/optimize-cls)<br>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ford fusion 2010 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Ford Fusion Parts & Work Needed</h2>
