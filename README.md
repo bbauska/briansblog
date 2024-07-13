@@ -12,8 +12,8 @@ another-website under git on bauska.org and/or bauska.net --->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ tools for web development ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-[Triangle Generator](https://unused-css.com/tools/triangle-generator)
-[SVG](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-svg#anatomy-of-an-svg)
+[Triangle Generator](https://unused-css.com/tools/triangle-generator)<br>
+[SVG](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-svg#anatomy-of-an-svg)<br>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ford fusion 2010 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
