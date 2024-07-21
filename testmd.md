@@ -11,8 +11,8 @@
 </pre>
 
 <pre><head>
-  <head>
-    <meta charset="utf-8"/>
+  &lt;ead&gt;
+    **&lt;meta charset="utf-8"/&gt;
       ...
-  </head>
+  &lt;/head&gt;
 </head></pre>
