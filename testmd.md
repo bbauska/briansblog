@@ -12,7 +12,7 @@
 
 <pre>
   &lt;head&gt;
-    <b>&lt;meta charset="utf-8"/&gt;</b>
+    <b>&lt;meta charset=&quot;utf-8"/&gt;</b>
       ...
   &lt;/head&gt;
 </pre>
