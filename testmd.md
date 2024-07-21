@@ -10,9 +10,9 @@
 </head>
 </pre>
 
-<pre><head>
+<pre>
   &lt;head&gt;
     <b>&lt;meta charset="utf-8"/&gt;</b>
       ...
   &lt;/head&gt;
-</head></pre>
+</pre>
