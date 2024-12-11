@@ -12,7 +12,6 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
 }
-
 svg,
 .form-container {
     position: absolute;
@@ -20,16 +19,13 @@ svg,
     left: 50%;
     transform: translate(-50%, -50%);
 }
-
 .form-container {
     width: 270px;
 }
-
 svg {
     width: 1000px;
     pointer-events: none;
 }
-
 .form-container .form-row {
     width: 100%;
     height: 60px;
@@ -37,7 +33,6 @@ svg {
     align-items: center;
     justify-content: flex-start;
 }
-
 .form-container .form-row input {
     width: 100%;
     height: 30px;
@@ -46,11 +41,9 @@ svg {
     outline: none;
     border: 2px solid #dddddd;
 }
-
 .form-container .form-row input.valid {
     border-color: #000000;
 }
-
 .form-container .form-row input[type="checkbox"] {
     width: 20px;
     height: 20px;
@@ -58,7 +51,6 @@ svg {
     padding: 0;
     border: 2px solid #dddddd;
 }
-
 .form-container .form-row input[type="submit"] {
     height: 40px;
     cursor: pointer;
@@ -66,7 +58,6 @@ svg {
     background-color: #eeeeee;
     /*pointer-events: none;*/
 }
-
 /*.form-container .form-row input[type="submit"].valid {*/
 /*    pointer-events: auto;*/
 /*}*/
@@ -74,14 +65,12 @@ svg {
 .form-container input[type="submit"]:hover {
     background-color: #dddddd;
 }
-
 .form-container label,
 .form-container input,
 .form-container input::placeholder {
     font-size: 15px;
     font-family: inherit;
 }
-
 svg {
     stroke-width: 1.2px;
     /*stroke: #222245;*/
