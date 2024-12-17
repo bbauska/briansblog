@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en" id="device-mobile">
+    <head>
+        <title>Windy: Wind map &amp; weather forecast</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover" />
+        <link href="v/41.1.0.emb.7bfd/embed2.css" rel="stylesheet" type="text/css" />
+        <script>
+            window.W = { version: "41.1.0", encodedVersion: "gdadac$emb7bfd", assets: "41.1.0.emb.7bfd", target: "embed2", build: "2024-09-18, 06:24", startTs: Date.now(), detectedDevice: "mobile" };
+            try {
+                !(function () {
+                    var e = window.screen.width,
+                        t = window.screen.height,
+                        d = Math.min(e, t),
+                        e = Math.max(e, t),
+                        t = /iPhone|iPod|iPad|ios|android/i.test(window.navigator.userAgent),
+                        i = "ontouchstart" in window || 0 < navigator.maxTouchPoints,
+                        e = "mobile" === window.W.target ? (d <= 500 ? "mobile" : "tablet") : e <= 600 || (e <= 960 && d <= 600) || (d <= 500 && t) ? "mobile" : (e <= 1024 || d <= 1080) && t && i ? "tablet" : "desktop";
+                    (document.documentElement.id = "device-" + e), (document.documentElement.className = "target-embed2"), (window.W.detectedDevice = e);
+                })();
+            } catch (e) {}
+        </script>
+        <script>
+            const queryString = {},
+                searchQuery = window.location.search.replace(/^\?/, "");
+            if (searchQuery) {
+                const a = searchQuery.split("&");
+                for (let e = 0; e < a.length; e++) {
+                    const c = a[e].split("=");
+                    try {
+                        queryString[decodeURIComponent(c[0])] = decodeURIComponent(c[1] || "");
+                    } catch (e) {}
+                }
+            }
+            (window.W.detectedDevice = "alert" === queryString.type ? "mobile" : "desktop"), (window.W.embed = { queryString: queryString });
+        </script>
+        <meta name="minifest-ecmwf-hres" content='{"dst":[[3,3,90],[3,93,144],[6,150,360]],"info":"2024112500","ref":"2024-12-17T12:00:00Z","update":"2024-12-17T19:57:05Z","v":"2.4"}' />
+        <meta name="minifest-ecmwf-hres-premium" content='{"dst":[[1,1,90],[3,93,144],[6,150,360]],"info":"2024112500","ref":"2024-12-17T12:00:00Z","update":"2024-12-17T19:57:05Z","v":"2.4"}' />
+        <meta name="model" content="ecmwf" />
+        <meta name="geoip" content="50.34.167.238,48.1830,-122.1136,US,Arlington" />
+        <meta
+            name="token"
+            content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MzQ0Njg1NDksImluZiI6eyJ1YSI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdFwvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lXC8xMzEuMC4wLjAgU2FmYXJpXC81MzcuMzYiLCJpcCI6IjUwLjM0LjE2Ny4yMzgifSwiZXhwIjoxNzM0NjQxMzQ5fQ.aJxDZWwCDGyNisRyq4BX9_UlhYSK8QTgoY35VTVALi0"
+        />
+        <script src="js/leaflet140_patched_tileLayer.v17.js"></script>
+        <script>
+            (Array.prototype.includes && Object.assign && window.Promise) || document.write('<script src="js/polyfills.v13.js"><\/script>');
+        </script>
+        <script src="v/41.1.0.emb.7bfd/embed2.js" async></script>
+        <link rel="dns-prefetch" href="https://node.windy.com" />
+        <link rel="dns-prefetch" href="https://account.windy.com" />
+        <link rel="dns-prefetch" href="https://tiles.windy.com" />
+        <link rel="dns-prefetch" href="https://ims.windy.com" />
+        <link rel="dns-prefetch" href="https://ims-s.windy.com" />
+        <link rel="dns-prefetch" href="https://img.windy.com" />
+    </head>
+    <body class="target-embed">
+        <section id="map-container" style="position: absolute; bottom: 0; left: 0; right: 0; top: 0; width: 100%; height: 100%;">
+            <div id="leaflet-map" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; width: 100%; height: 100%; background-color: grey;"></div>
+            <div id="picker-dot">
+                <svg viewBox="0 0 100 100">
+                    <path d="M 25,50 L 0,50 M 75,50 L 100,50" stroke-width="8" />
+                    <path d="M 50,25 L 50,0 M 50,75 L 50,100" stroke-width="8" />
+                    <circle cx="50" cy="50" r="4" />
+                </svg>
+            </div>
+        </section>
+        <a id="contrib" class="mobilehide" href="http://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>
+        <section id="bottom-wrapper">
+            <nav id="plugins-bottom"></nav>
+            <div id="plugins-bellow-bottom"></div>
+            <div class="metric-legend" id="legend-mobile"></div>
+        </section>
+        <nav id="plugins-bottom-desktop" class="shy left-border right-border"></nav>
+        <span data-plugin="detail-rhpane"></span>
+        <div id="logo-wrapper" class="top-border left-border right-border">
+            <a id="logo" target="_blank" class="clickable notap animated-windy-logo" data-do="bcast,back2home">
+                <div class="w-sprite"></div>
+                <img class="text" alt="Windy.com" src="/img/logo201802/logo-text-windycom-white.svg" />
+            </a>
+        </div>
+        <div id="mobile-ovr-select" data-icon="&#x7c;" class="top-border clickable" data-do="rqstOpen,menu"><span id="ovr-select-name"></span></div>
+        <div id="embed-zoom">
+            <div data-do="bcast,zoomIn" class="clickable iconfont zoom-ctrl zoom-plus" title="Zoom in">&#x2b;</div>
+            <div data-do="bcast,zoomOut" class="clickable iconfont zoom-ctrl zoom-minus" title="Zoom out">&#x2d;</div>
+        </div>
+        <div id="plugins" class="shy"></div>
+        <div id="search" class="shy left-border top-border">
+            <div id="search-weather-bg">
+                <div id="search-top-wrapper">
+                    <div id="menu-burger2" class="mobiletablethide tooltip-down" data-tooltipsrc="MENU" data-do="rqstOpen,tools"><div class="iconfont clickable-size">&#x64;</div></div>
+                    <input type="text" id="q" data-placeholder="SEARCH" autocomplete="off" spellcheck="false" autocorrect="off" autocapitalize="off" />
+                    <div id="share" class="mobiletablethide tooltip-down iconfont" data-tooltipsrc="SHARE" data-do="rqstOpen,share">&#x46;</div>
+                    <div id="fav" class="fav-lines shy">
+                        <div class="fav-line fav-off iconfont clickable-size tooltip-down" data-do="rqstOpen,fav-alert-menu" data-tooltipsrc="D_FAVORITES">&#x6d;</div>
+                        <div class="fav-line fav-on iconfont clickable-size tooltip-down" data-do="rqstOpen,fav-alert-menu" data-tooltipsrc="D_FAVORITES2">&#x6b;</div>
+                        <span data-plugin="fav-alert-menu"></span>
+                    </div>
+                    <div id="search-my-loc" class="noselect shy iconfont">&#x6a;</div>
+                    <div id="cancel-search" class="iconfont">&#xe013;</div>
+                </div>
+                <span data-plugin="hp-weather"></span>
+            </div>
+            <div id="warnings" class="weather-box animation flex-container" style="display: none;"></div>
+            <div id="articles" class="weather-box animation" style="display: none;"></div>
+            <span data-plugin="search"></span>
+        </div>
+    </body>
+</html>
